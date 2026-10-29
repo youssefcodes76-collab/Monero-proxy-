@@ -1,0 +1,15 @@
+{
+  "name": "mining-proxy",
+  "version": "1.0.0",
+  "description": "Stratum Mining Proxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "net": "*"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }l
+}
